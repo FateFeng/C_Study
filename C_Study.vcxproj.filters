@@ -21,9 +21,21 @@
     <ClCompile Include="Day01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Day02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Day03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Day01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Day02.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Day03.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -22,4 +22,14 @@ void Day01::selfPrint()
     int* e = c;
 
     std::cout << *d << "       " << *e << "\n";
+
+
+    int temp = 0;
+
+    for (; temp < 5; temp++)
+    {
+        std::cout << "temp_index : " << temp << "\n";
+    }
+
+    std::cout << temp << "\n";
 }
